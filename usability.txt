@@ -1,0 +1,2 @@
+! Prevent all web pages from disabling text selection
+*##*:style(user-select: auto !important)
