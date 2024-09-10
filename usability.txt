@@ -1,2 +1,4 @@
 ! Prevent all web pages from disabling text selection
 *##*:style(user-select: auto !important)
+! Fix broken selection color scheme 
+*##*::selection:style(color:HighlightText !important; background-color:Highlight !important;)

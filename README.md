@@ -3,3 +3,4 @@ A small collection of uBlock Origin filters to remove general annoyances and usa
 
 # Features
 * Prevent unselectable text (disable user-select: none)
+* Prevent selection color overrides (::selection pseudo-element)
